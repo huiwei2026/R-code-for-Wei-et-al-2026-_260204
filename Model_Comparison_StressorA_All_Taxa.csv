@@ -1,0 +1,16 @@
+"Group","Model","Formula","Intercept","Slope1","Slope2","AIC","AICc"
+"Taxa: Algae+Protist (Stressor A)","Linear","yi ~ Latitude_abs",0.258958990461198,-0.00135306424494202,NA,209.983526686236,210.418309294931
+"Taxa: Algae+Protist (Stressor A)","Quadratic (raw)","yi ~ Latitude_abs + Latitude_abs^2",0.656823336343774,-0.0253980025106655,0.000305309753299932,209.343789786252,210.003130445592
+"Taxa: Algae+Protist (Stressor A)","Log-quadratic","yi ~ log(Latitude_abs) + log(Latitude_abs)^2",2.15186360031868,-1.10936759806456,0.155572454770853,210.031781082965,210.691121742306
+"Taxa: Radiata (Stressor A)","Linear","yi ~ Latitude_abs",0.11853777201722,-0.0103587697927238,NA,-4.86867725120885,-1.79175417428577
+"Taxa: Radiata (Stressor A)","Quadratic (raw)","yi ~ Latitude_abs + Latitude_abs^2",1.29404200383011,-0.0797598418453151,0.000886098487987577,-4.15517217760654,0.844827822393455
+"Taxa: Radiata (Stressor A)","Log-quadratic","yi ~ log(Latitude_abs) + log(Latitude_abs)^2",5.35700507002998,-2.82133990780239,0.344631327456928,-3.09847351968805,1.90152648031195
+"Taxa: Lophotrochozoa (Stressor A)","Linear","yi ~ Latitude_abs",-0.0303378233126649,-0.00054315032106274,NA,155.51445906951,155.747017209045
+"Taxa: Lophotrochozoa (Stressor A)","Quadratic (raw)","yi ~ Latitude_abs + Latitude_abs^2",0.905117334765042,-0.0522412825627934,0.000695377878989528,156.232454893519,156.583332086501
+"Taxa: Lophotrochozoa (Stressor A)","Log-quadratic","yi ~ log(Latitude_abs) + log(Latitude_abs)^2",15.4165980340174,-8.65604964847145,1.20827698697475,155.361111609647,155.711988802629
+"Taxa: Ecdysozoa (Stressor A)","Linear","yi ~ Latitude_abs",0.192657632529119,-0.00586321118584915,NA,20.5959941148557,21.5262266729953
+"Taxa: Ecdysozoa (Stressor A)","Quadratic (raw)","yi ~ Latitude_abs + Latitude_abs^2",-0.57897344320955,0.047779355219524,-0.00076597041180429,19.0068491570851,20.4354205856565
+"Taxa: Ecdysozoa (Stressor A)","Log-quadratic","yi ~ log(Latitude_abs) + log(Latitude_abs)^2",-5.04117115051475,3.27087973194993,-0.517081515262491,18.9103733881058,20.3389448166773
+"Taxa: Deuterostomia (Stressor A)","Linear","yi ~ Latitude_abs",1.20065837785015,-0.031198575549039,NA,49.067861434386,50.667861434386
+"Taxa: Deuterostomia (Stressor A)","Quadratic (raw)","yi ~ Latitude_abs + Latitude_abs^2",7.40471594322282,-0.303859142581939,0.00285914180640305,43.6349404595828,46.1349404595828
+"Taxa: Deuterostomia (Stressor A)","Log-quadratic","yi ~ log(Latitude_abs) + log(Latitude_abs)^2",58.104908947851,-29.3665080716823,3.67856925880605,42.8447037482972,45.3447037482972
